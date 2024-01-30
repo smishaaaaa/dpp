@@ -102,3 +102,17 @@
 .link{
     color: #ffffff;
 }
+@media (max-width: 1100px) {
+    .description{
+        max-width: 100%;
+    }
+    .design{
+        font-size: 20px;
+    }
+    .ramka{
+        max-width: 80%;
+    }
+    .footer_text{
+        font-size: 20px;
+    }
+  }
